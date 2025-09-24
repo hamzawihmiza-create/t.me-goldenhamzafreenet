@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/t.me-goldenhamzafreenet"
+          "path": "/t.me/goldenhamzafreenet"
         }
       }
     }
